@@ -1,0 +1,1745 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "PeQtPcJh2YwIoycW2as_HH",
+      "name": "Absolute Zero",
+      "value": "#0048BA"
+    },
+    {
+      "id": "YH1G_0dp0IAFDLhsSgWIBI",
+      "name": "Acid green",
+      "value": "#B0BF1A"
+    },
+    {
+      "id": "RBv4S7OrapJTaukTy0prC4",
+      "name": "Aero",
+      "value": "#7CB9E8"
+    },
+    {
+      "id": "eFNYkyorf9MpBZr-p4asli",
+      "name": "African violet",
+      "value": "#B284BE"
+    },
+    {
+      "id": "ZiM6rg_G3ZLli1fkU6ViCm",
+      "name": "Air superiority blue",
+      "value": "#72A0C1"
+    },
+    {
+      "id": "8VHj9FH4Uq5_covYErS2Pj",
+      "name": "Alice blue",
+      "value": "#F0F8FF"
+    },
+    {
+      "id": "hY4d2DmHPUfVRw4Atq1voE",
+      "name": "Alizarin",
+      "value": "#DB2D43"
+    },
+    {
+      "id": "FH3pcrtqV4RrK9kRTUnY4J",
+      "name": "Alloy orange",
+      "value": "#C46210"
+    },
+    {
+      "id": "C_k-jBBbOu82YotlAu4orq",
+      "name": "Almond",
+      "value": "#EED9C4"
+    },
+    {
+      "id": "f8McEaycJCDLSOD6stVWY_",
+      "name": "Amaranth deep purple",
+      "value": "#9F2B68"
+    },
+    {
+      "id": "XW2JdpqRoqyzSi6UlApGbl",
+      "name": "Amaranth pink",
+      "value": "#F19CBB"
+    },
+    {
+      "id": "B-2n-3S-mE6WteWa7fPr6i",
+      "name": "Amaranth purple",
+      "value": "#AB274F"
+    },
+    {
+      "id": "wdiGOjWU2_WNMtiV2OawOC",
+      "name": "Amazon",
+      "value": "#3B7A57"
+    },
+    {
+      "id": "MEVGFmORZ8RGCd_bjjQnWu",
+      "name": "Amber",
+      "value": "#FFBF00"
+    },
+    {
+      "id": "hgz4iwgUS0jg6lgah7Xs-T",
+      "name": "Amethyst",
+      "value": "#9966CC"
+    },
+    {
+      "id": "oYWH2nQ34jeifhwIwDR3la",
+      "name": "Android green",
+      "value": "#3DDC84"
+    },
+    {
+      "id": "RvpeoqHWA2xF3q2CRINYN0",
+      "name": "Antique brass",
+      "value": "#C88A65"
+    },
+    {
+      "id": "yOqlMWKwvT20OANldkw_J-",
+      "name": "Antique bronze",
+      "value": "#665D1E"
+    },
+    {
+      "id": "7K1o4zPIilnMztS9AFcQqY",
+      "name": "Antique fuchsia",
+      "value": "#915C83"
+    },
+    {
+      "id": "Eso36rqCx2h0Vd_32fFXU4",
+      "name": "Antique ruby",
+      "value": "#841B2D"
+    },
+    {
+      "id": "exIVqfeSQHB2fqrsX-bH-v",
+      "name": "Antique white",
+      "value": "#FAEBD7"
+    },
+    {
+      "id": "S3pMHE5FCOfQauq-CxpchX",
+      "name": "Apricot",
+      "value": "#FBCEB1"
+    },
+    {
+      "id": "XCwJkknnMZ9Frnhu34JFIQ",
+      "name": "Aqua",
+      "value": "#00FFFF"
+    },
+    {
+      "id": "7-JtgoVu2ZOz6btj5KxUjt",
+      "name": "Aquamarine",
+      "value": "#7FFFD4"
+    },
+    {
+      "id": "Pgl1FHrJcXu2J8tBmGJisw",
+      "name": "Arctic lime",
+      "value": "#D0FF14"
+    },
+    {
+      "id": "A2ukuDm4I8Y370ci3G9S2H",
+      "name": "Artichoke green",
+      "value": "#4B6F44"
+    },
+    {
+      "id": "Z5jDZmjljWn_ysQR9YIL_Q",
+      "name": "Arylide yellow",
+      "value": "#E9D66B"
+    },
+    {
+      "id": "lgpzwy5cktDpF4DPpIhb5n",
+      "name": "Ash gray",
+      "value": "#B2BEB5"
+    },
+    {
+      "id": "9YTr_-4JUsPKflEfa6Ihfu",
+      "name": "Atomic tangerine",
+      "value": "#FF9966"
+    },
+    {
+      "id": "ynz-1UntQ_avhXeaV8Q71a",
+      "name": "Aureolin",
+      "value": "#FDEE00"
+    },
+    {
+      "id": "5qrePt2vstuIklZMhF9DfA",
+      "name": "Azure",
+      "value": "#007FFF"
+    },
+    {
+      "id": "EL2yKkikggcyLVoYHhFng0",
+      "name": "Azure (X11/web color)",
+      "value": "#F0FFFF"
+    },
+    {
+      "id": "UBfwUZDL6CMLWrOKBcbckE",
+      "name": "Baby blue",
+      "value": "#89CFF0"
+    },
+    {
+      "id": "vqVQRXMH4VFG3WSCc0sKv8",
+      "name": "Baby blue eyes",
+      "value": "#A1CAF1"
+    },
+    {
+      "id": "kyDkoNQkzCFaiN49WLQ72y",
+      "name": "Baby pink",
+      "value": "#F4C2C2"
+    },
+    {
+      "id": "evvko7Fzzy8_tt1vhs2Szq",
+      "name": "Baby powder",
+      "value": "#FEFEFA"
+    },
+    {
+      "id": "tjy9F-7NDOpk_yZD5IJRqE",
+      "name": "Baker-Miller pink",
+      "value": "#FF91AF"
+    },
+    {
+      "id": "QJgp-NKHAiG84o2RH_jwR7",
+      "name": "Banana Mania",
+      "value": "#FAE7B5"
+    },
+    {
+      "id": "0pMJX_OBBFDEQO-tCMyWDH",
+      "name": "Barbie Pink",
+      "value": "#DA1884"
+    },
+    {
+      "id": "iGKTKHPtY5Ohogo7AIVpTX",
+      "name": "Barn red",
+      "value": "#7C0A02"
+    },
+    {
+      "id": "cnVz_8sOPRbxKPBpqePR0m",
+      "name": "Battleship grey",
+      "value": "#848482"
+    },
+    {
+      "id": "f7yq03R9p0qbjUiQx6tsal",
+      "name": "Beau blue",
+      "value": "#BCD4E6"
+    },
+    {
+      "id": "r2k1NJalD6bjzgULmzACuZ",
+      "name": "Beaver",
+      "value": "#9F8170"
+    },
+    {
+      "id": "MgxNIyrdDmGcerJU3wY5Pt",
+      "name": "Beige",
+      "value": "#F5F5DC"
+    },
+    {
+      "id": "fM76nB0eBKm6gtjwRXiqwJ",
+      "name": "B'dazzled blue",
+      "value": "#2E5894"
+    },
+    {
+      "id": "AoRYhvD3x_tWXOwICWOZUE",
+      "name": "Big dip o’ruby",
+      "value": "#9C2542"
+    },
+    {
+      "id": "A_Wc8nR4ebxOULe5ISPgVr",
+      "name": "Bisque",
+      "value": "#FFE4C4"
+    },
+    {
+      "id": "u-R2AlDmyvf-77IjsAgVOz",
+      "name": "Bistre",
+      "value": "#3D2B1F"
+    },
+    {
+      "id": "lpIUe29uE06mJh-kHrzFqg",
+      "name": "Bistre brown",
+      "value": "#967117"
+    },
+    {
+      "id": "xcznjUnUHkTtIn9tbDKl6f",
+      "name": "Bitter lemon",
+      "value": "#CAE00D"
+    },
+    {
+      "id": "nIhXBZgol-umLuS5i1NIMb",
+      "name": "Black",
+      "value": "#000000"
+    },
+    {
+      "id": "PjdECAT6FESbOo6BM0Jas-",
+      "name": "Black bean",
+      "value": "#3D0C02"
+    },
+    {
+      "id": "f5zGFyQL1SHSM6hBbpIZrm",
+      "name": "Black coral",
+      "value": "#54626F"
+    },
+    {
+      "id": "brGjNCS9FbnAcpnp7y8wPN",
+      "name": "Black olive",
+      "value": "#3B3C36"
+    },
+    {
+      "id": "c-O1PqjgFUz32sEZm4MQw4",
+      "name": "Black Shadows",
+      "value": "#BFAFB2"
+    },
+    {
+      "id": "kbxuONau59J2B8POMglrLO",
+      "name": "Blanched almond",
+      "value": "#FFEBCD"
+    },
+    {
+      "id": "IM55b8UuvhlwH8c2YUD3MS",
+      "name": "Blast-off bronze",
+      "value": "#A57164"
+    },
+    {
+      "id": "gYsWqTjSVEmHrgzIY0ICvW",
+      "name": "Bleu de France",
+      "value": "#318CE7"
+    },
+    {
+      "id": "mMKxgqZDSZmX9iBXL2EuG2",
+      "name": "Blizzard blue",
+      "value": "#ACE5EE"
+    },
+    {
+      "id": "0ZZNrBmFxQ2louJxWzOAj2",
+      "name": "Blood red",
+      "value": "#660000"
+    },
+    {
+      "id": "VziBF0N8JyX_LZKE-scMFi",
+      "name": "Blue",
+      "value": "#0000FF"
+    },
+    {
+      "id": "SJo6pMz1me8ZHcIDpA4g3i",
+      "name": "Blue (Crayola)",
+      "value": "#1F75FE"
+    },
+    {
+      "id": "5FPgqRgYgz_l9yxvb76rVW",
+      "name": "Blue (Munsell)",
+      "value": "#0093AF"
+    },
+    {
+      "id": "86j8VT2UQNBhoeyGiTNvrk",
+      "name": "Blue (NCS)",
+      "value": "#0087BD"
+    },
+    {
+      "id": "gTX4JZ4lDz_2dyGbItFa7Q",
+      "name": "Blue (Pantone)",
+      "value": "#0018A8"
+    },
+    {
+      "id": "x9P7c_MNOTdFVD7t7sm98l",
+      "name": "Blue (pigment)",
+      "value": "#333399"
+    },
+    {
+      "id": "9YpcruhWUs4hRiet8UIxfC",
+      "name": "Blue bell",
+      "value": "#A2A2D0"
+    },
+    {
+      "id": "1LP-IntyvGUSbEkFBU54GX",
+      "name": "Blue-gray(Crayola)",
+      "value": "#6699CC"
+    },
+    {
+      "id": "aCQhgw70F2RCMAINyiIZzc",
+      "name": "Blue jeans",
+      "value": "#5DADEC"
+    },
+    {
+      "id": "eYsUdlDTNcCv-dxIgVUZ9V",
+      "name": "Blue sapphire",
+      "value": "#126180"
+    },
+    {
+      "id": "qVJDenRshdHQSPssMb40N-",
+      "name": "Blue-violet",
+      "value": "#8A2BE2"
+    },
+    {
+      "id": "vQRCTvEe1ooQNO9jNjZuue",
+      "name": "Blue yonder",
+      "value": "#5072A7"
+    },
+    {
+      "id": "u4jzkm0FA8G0SNKiBSzzeT",
+      "name": "Bluetiful",
+      "value": "#3C69E7"
+    },
+    {
+      "id": "ucew3fhmSXA6GPVm0JXp21",
+      "name": "Blush",
+      "value": "#DE5D83"
+    },
+    {
+      "id": "5KU48MmgvNv7VVAKDLQfs9",
+      "name": "Bole",
+      "value": "#79443B"
+    },
+    {
+      "id": "Gu0opPZZli37Vmakzw1rC2",
+      "name": "Bone",
+      "value": "#E3DAC9"
+    },
+    {
+      "id": "nwa4j61AsyYw7_PBPnpdc6",
+      "name": "Brick red",
+      "value": "#CB4154"
+    },
+    {
+      "id": "S7I3SIK_PnpVt78d0HliZl",
+      "name": "Bright lilac",
+      "value": "#D891EF"
+    },
+    {
+      "id": "ukA1qMpOjLyOriBk9BF9-E",
+      "name": "Bright yellow (Crayola)",
+      "value": "#FFAA1D"
+    },
+    {
+      "id": "s6whaTGLXetsuPxgVzT43g",
+      "name": "British racing green",
+      "value": "#004225"
+    },
+    {
+      "id": "UCk0IBzratTYTHtbrAO4P9",
+      "name": "Bronze",
+      "value": "#CD7F32"
+    },
+    {
+      "id": "LAmUeF0po1Ji2F-YFa8jvS",
+      "name": "Brown",
+      "value": "#964B00"
+    },
+    {
+      "id": "9nyUDKPjJWo_M-viBTI_2f",
+      "name": "Brown sugar",
+      "value": "#AF6E4D"
+    },
+    {
+      "id": "4YMN8hbyec7_SW5Cb3I1ly",
+      "name": "Bud green",
+      "value": "#7BB661"
+    },
+    {
+      "id": "JTkX6HUcuIJ5Of17Xz0xsW",
+      "name": "Buff",
+      "value": "#FFC680"
+    },
+    {
+      "id": "c5PtRo42f-U9t4ZgYmVvgZ",
+      "name": "Burgundy",
+      "value": "#800020"
+    },
+    {
+      "id": "pm21Qeyb_5HhHjIWl9s2EL",
+      "name": "Burlywood",
+      "value": "#DEB887"
+    },
+    {
+      "id": "kS8-zFU0TFxB3H0dJDQh0c",
+      "name": "Burnished brown",
+      "value": "#A17A74"
+    },
+    {
+      "id": "I7d4WFk-GHjN6l2BCV8Sm7",
+      "name": "Burnt orange",
+      "value": "#CC5500"
+    },
+    {
+      "id": "Q_OoQvIk4ZqmLU37vI5ve3",
+      "name": "Burnt sienna",
+      "value": "#E97451"
+    },
+    {
+      "id": "LkzBrJ5_yEbGwvQKrXD5Q8",
+      "name": "Burnt umber",
+      "value": "#8A3324"
+    },
+    {
+      "id": "nU-uGL9oMO9DI_GyVsqhJC",
+      "name": "Byzantine",
+      "value": "#BD33A4"
+    },
+    {
+      "id": "wqt7yrmGgPTl5FnFCar1jo",
+      "name": "Byzantium",
+      "value": "#702963"
+    },
+    {
+      "id": "iXP08cSQX5wB9j68CPQfo7",
+      "name": "Cadet blue",
+      "value": "#5F9EA0"
+    },
+    {
+      "id": "gb7mx1faOoBzl1RAskrFXO",
+      "name": "Cadet grey",
+      "value": "#91A3B0"
+    },
+    {
+      "id": "fCcbXyPpuYUW4rR1WT06hs",
+      "name": "Cadmium green",
+      "value": "#006B3C"
+    },
+    {
+      "id": "sYO5m0M3mWusdwFQGElZM_",
+      "name": "Cadmium orange",
+      "value": "#ED872D"
+    },
+    {
+      "id": "reb5OyxfR3jXSmy5lxgPxB",
+      "name": "Café au lait",
+      "value": "#A67B5B"
+    },
+    {
+      "id": "XIiBqpzVnIKrPd4a7XraSI",
+      "name": "Café noir",
+      "value": "#4B3621"
+    },
+    {
+      "id": "uuIT4zOqL-PctAG5Uc0OKD",
+      "name": "Cambridge blue",
+      "value": "#A3C1AD"
+    },
+    {
+      "id": "phTK9x5T-dclNhrJTQClB8",
+      "name": "Camel",
+      "value": "#C19A6B"
+    },
+    {
+      "id": "ezBFfpmikJrniJQ2NiVZSF",
+      "name": "Cameo pink",
+      "value": "#EFBBCC"
+    },
+    {
+      "id": "PzISS3KoNdhKgtT6hOvqym",
+      "name": "Canary",
+      "value": "#FFFF99"
+    },
+    {
+      "id": "lGCs0NbXDuBO-qLx63FRZj",
+      "name": "Canary yellow",
+      "value": "#FFEF00"
+    },
+    {
+      "id": "fgugUzt-tQpvRmWQvp5JB4",
+      "name": "Candy pink",
+      "value": "#E4717A"
+    },
+    {
+      "id": "KJ8ENtBeMWCC4OS4cEjLsT",
+      "name": "Cardinal",
+      "value": "#C41E3A"
+    },
+    {
+      "id": "Jq4edW2-Is5PbKrFp19-HX",
+      "name": "Caribbean green",
+      "value": "#00CC99"
+    },
+    {
+      "id": "qKalahIuMX5dWTbUW3kgqF",
+      "name": "Carmine",
+      "value": "#960018"
+    },
+    {
+      "id": "Uc-950oi1foaqnoYiBw58a",
+      "name": "Carmine (M&P)",
+      "value": "#D70040"
+    },
+    {
+      "id": "0TvAmBmVn1AuwM4_hYW_QW",
+      "name": "Carnation pink",
+      "value": "#FFA6C9"
+    },
+    {
+      "id": "HY8ul16Sx76wfqyVNH_Me-",
+      "name": "Carnelian",
+      "value": "#B31B1B"
+    },
+    {
+      "id": "vRjLUaMgn4cHsRd5Cn7isd",
+      "name": "Carolina blue",
+      "value": "#56A0D3"
+    },
+    {
+      "id": "XiCXMj-nztEz5ha2pRQKo0",
+      "name": "Carrot orange",
+      "value": "#ED9121"
+    },
+    {
+      "id": "bZwjcguV4RH-5PMPn7tbzC",
+      "name": "Catawba",
+      "value": "#703642"
+    },
+    {
+      "id": "ln1mS4l9cnbDgH-oQc22ju",
+      "name": "Cedar Chest",
+      "value": "#C95A49"
+    },
+    {
+      "id": "09OLOUqYKf4v3Pcjs9Y252",
+      "name": "Celadon",
+      "value": "#ACE1AF"
+    },
+    {
+      "id": "PdnTvdHx_FajUpg8IlBVjD",
+      "name": "Celeste",
+      "value": "#B2FFFF"
+    },
+    {
+      "id": "qgFC8eYK7-FdpBcDhRF4qI",
+      "name": "Cerise",
+      "value": "#DE3163"
+    },
+    {
+      "id": "xZtUH-LQEhzKhwH-OiJLUK",
+      "name": "Cerulean",
+      "value": "#007BA7"
+    },
+    {
+      "id": "KddcQ6PN0QKQ7YvBZ5YEaP",
+      "name": "Cerulean blue",
+      "value": "#2A52BE"
+    },
+    {
+      "id": "BGCiXXixS7Rau7X5GzXxB4",
+      "name": "Cerulean frost",
+      "value": "#6D9BC3"
+    },
+    {
+      "id": "Ij0fnyh5J9Bghglt83Rcex",
+      "name": "Cerulean (Crayola)",
+      "value": "#1DACD6"
+    },
+    {
+      "id": "vokRrKAE_twhK_d2svACfz",
+      "name": "Cerulean (RGB)",
+      "value": "#0040FF"
+    },
+    {
+      "id": "Rg0QPuWKHyTH6M6036cjwa",
+      "name": "Champagne",
+      "value": "#F7E7CE"
+    },
+    {
+      "id": "XPNyIZNhPN9aSKGf-uo7Bq",
+      "name": "Champagne pink",
+      "value": "#F1DDCF"
+    },
+    {
+      "id": "_xFX2OCl2mGgH-HK8QUa2E",
+      "name": "Charcoal",
+      "value": "#36454F"
+    },
+    {
+      "id": "-DutEnDJIiY0XlPN79s6w9",
+      "name": "Charm pink",
+      "value": "#E68FAC"
+    },
+    {
+      "id": "Tz95m36-8qH5dyvOOb8AGK",
+      "name": "Chartreuse (web)",
+      "value": "#80FF00"
+    },
+    {
+      "id": "qsOcCD8buGzpaRYoiyIuok",
+      "name": "Cherry blossom pink",
+      "value": "#FFB7C5"
+    },
+    {
+      "id": "qMn_mjT8al3LFxNVJyOQrT",
+      "name": "Chestnut",
+      "value": "#954535"
+    },
+    {
+      "id": "BG5uzd1ArClJyPNCzOrUQs",
+      "name": "Chili red",
+      "value": "#E23D28"
+    },
+    {
+      "id": "BLspJc_ldY4Agf3CLYaUNu",
+      "name": "China pink",
+      "value": "#DE6FA1"
+    },
+    {
+      "id": "pnewERRnmqeL9HIk1xmqtR",
+      "name": "Chinese red",
+      "value": "#AA381E"
+    },
+    {
+      "id": "2LMoMcJ0TttjqQa4Ymdk8g",
+      "name": "Chinese violet",
+      "value": "#856088"
+    },
+    {
+      "id": "7WcwSbZtigFtvUiAv95zX0",
+      "name": "Chinese yellow",
+      "value": "#FFB200"
+    },
+    {
+      "id": "8ESu_oA9HO1HHHEZWp6_Pc",
+      "name": "Chocolate (traditional)",
+      "value": "#7B3F00"
+    },
+    {
+      "id": "023Gh4dYsDqYnBQDfMsYuU",
+      "name": "Chocolate (web)",
+      "value": "#D2691E"
+    },
+    {
+      "id": "jiCvuOZb2C39D052gqBi3s",
+      "name": "Cinereous",
+      "value": "#98817B"
+    },
+    {
+      "id": "UoSxwVhKz_wknTd6-TUL9k",
+      "name": "Cinnabar",
+      "value": "#E34234"
+    },
+    {
+      "id": "DojG1gEeM-uNyeY0WUGj8K",
+      "name": "Cinnamon Satin",
+      "value": "#CD607E"
+    },
+    {
+      "id": "b8b2oJppnTMx2c3EDV3EaV",
+      "name": "Citrine",
+      "value": "#E4D00A"
+    },
+    {
+      "id": "45gEvlWBKvtMjizhFi-4wP",
+      "name": "Citron",
+      "value": "#9FA91F"
+    },
+    {
+      "id": "NufEY3QwI3lLRmfTs6f3SB",
+      "name": "Claret",
+      "value": "#7F1734"
+    },
+    {
+      "id": "4aAG7RDG0_Ep1MDhecl3Pg",
+      "name": "Coffee",
+      "value": "#6F4E37"
+    },
+    {
+      "id": "yNjvwhNdNWSi7u6aAe4HAy",
+      "name": "Columbia Blue",
+      "value": "#B9D9EB"
+    },
+    {
+      "id": "6VGW5FI6rLpyPlzfCoydYi",
+      "name": "Congo pink",
+      "value": "#F88379"
+    },
+    {
+      "id": "vvbHWnci8zP6-DFPR0VCRl",
+      "name": "Cool grey",
+      "value": "#8C92AC"
+    },
+    {
+      "id": "M-macoYUhYe2IMiAIHZOgX",
+      "name": "Copper",
+      "value": "#B87333"
+    },
+    {
+      "id": "yb4u84qrBQ6LvXDaPdubUB",
+      "name": "Copper (Crayola)",
+      "value": "#DA8A67"
+    },
+    {
+      "id": "SMoAFRsccO8T7OvtfR4pEF",
+      "name": "Copper penny",
+      "value": "#AD6F69"
+    },
+    {
+      "id": "kQz-dRkw_SeZZOZwN1HIXF",
+      "name": "Copper red",
+      "value": "#CB6D51"
+    },
+    {
+      "id": "4Av74PtI00hZlU0QvM2H6P",
+      "name": "Copper rose",
+      "value": "#996666"
+    },
+    {
+      "id": "UITtwLgFwtz05yxTc3aa1A",
+      "name": "Coquelicot",
+      "value": "#FF3800"
+    },
+    {
+      "id": "1Fk5751B8xRiPozQBwrmFj",
+      "name": "Coral",
+      "value": "#FF7F50"
+    },
+    {
+      "id": "O9_9C59C7w5DdDVhUpXNt4",
+      "name": "Coral pink",
+      "value": "#F88379"
+    },
+    {
+      "id": "JsJisAxn8QKbn6ak02d1Wa",
+      "name": "Cordovan",
+      "value": "#893F45"
+    },
+    {
+      "id": "Agzp6VN8lnLkVRg0OIDbPZ",
+      "name": "Corn",
+      "value": "#FBEC5D"
+    },
+    {
+      "id": "ltRHlfIHIw3p_WEpfVg4kS",
+      "name": "Cornflower blue",
+      "value": "#6495ED"
+    },
+    {
+      "id": "KJjporNosFkObK6zbRPjEz",
+      "name": "Cornsilk",
+      "value": "#FFF8DC"
+    },
+    {
+      "id": "BmeoX1CLToV6geQyQCw3j0",
+      "name": "Cosmic cobalt",
+      "value": "#2E2D88"
+    },
+    {
+      "id": "LbJyg6Q3MP2D5IwHuVTkH-",
+      "name": "Cosmic latte",
+      "value": "#FFF8E7"
+    },
+    {
+      "id": "-1ypd89d6U2UHS7B8mMRG0",
+      "name": "Coyote brown",
+      "value": "#81613C"
+    },
+    {
+      "id": "7tAD8MRzXX-obaJd9AOuIC",
+      "name": "Cotton candy",
+      "value": "#FFBCD9"
+    },
+    {
+      "id": "axtNSm1UIjbUYUikR4S2Qo",
+      "name": "Cream",
+      "value": "#FFFDD0"
+    },
+    {
+      "id": "T9E-O2e16a-N6A8BLOYEhN",
+      "name": "Crimson",
+      "value": "#DC143C"
+    },
+    {
+      "id": "CkVkBHH0zfZLlfcXuJ-aFp",
+      "name": "Crimson (UA)",
+      "value": "#9E1B32"
+    },
+    {
+      "id": "FVJD16Adga0V8QYJwG6-du",
+      "name": "Cultured Pearl",
+      "value": "#F5F5F5"
+    },
+    {
+      "id": "AOboAYPBD_yDqx-1YcB0A6",
+      "name": "Cyan",
+      "value": "#00FFFF"
+    },
+    {
+      "id": "h42bKwW5Tz0oQrQzSoE2TV",
+      "name": "Cyan (process)",
+      "value": "#00B7EB"
+    },
+    {
+      "id": "MZgf5kCr51m3-penkAzGH0",
+      "name": "Cyber grape",
+      "value": "#58427C"
+    },
+    {
+      "id": "ewBd2VxsLRlg8TpmC65NY1",
+      "name": "Cyber yellow",
+      "value": "#FFD300"
+    },
+    {
+      "id": "w6pkNPTLrjmrc6U7F2rDaZ",
+      "name": "Cyclamen",
+      "value": "#F56FA1"
+    },
+    {
+      "id": "hG0yGJE4yl7EIBDkLTxnlk",
+      "name": "Dandelion",
+      "value": "#FED85D"
+    },
+    {
+      "id": "paJKgBm2poO4TxTCTLInm8",
+      "name": "Dark brown",
+      "value": "#654321"
+    },
+    {
+      "id": "i8g7gAIoQv2Yj1J-FJ76cj",
+      "name": "Dark byzantium",
+      "value": "#5D3954"
+    },
+    {
+      "id": "dXotO7xyiEovBdqyJHhakJ",
+      "name": "Dark cyan",
+      "value": "#008B8B"
+    },
+    {
+      "id": "Zi06dhziCjh5A6xuXOPWu6",
+      "name": "Dark electric blue",
+      "value": "#536878"
+    },
+    {
+      "id": "kpLnSgntzYcxAZXuWxb6OJ",
+      "name": "Dark goldenrod",
+      "value": "#B8860B"
+    },
+    {
+      "id": "GOudo29hpS9WxiHUJ1hBLd",
+      "name": "Dark green (X11)",
+      "value": "#006400"
+    },
+    {
+      "id": "Wjevm-AmjS7uUjgDK4P4wu",
+      "name": "Dark jungle green",
+      "value": "#1A2421"
+    },
+    {
+      "id": "GiDIKsz_PsJ40UdaDZt_6y",
+      "name": "Dark khaki",
+      "value": "#BDB76B"
+    },
+    {
+      "id": "_BZ_ei0vXW9iPk1OOAvlnp",
+      "name": "Dark lava",
+      "value": "#483C32"
+    },
+    {
+      "id": "GVmd4JezvCMlq6LoZwfBnQ",
+      "name": "Dark liver (horses)",
+      "value": "#543D37"
+    },
+    {
+      "id": "fcRAZOMrGGdR8LUOc6O2Bl",
+      "name": "Dark magenta",
+      "value": "#8B008B"
+    },
+    {
+      "id": "5tQnizSIfgwKxrHTkUxqD8",
+      "name": "Dark olive green",
+      "value": "#556B2F"
+    },
+    {
+      "id": "BgpjI54oQkI7cxVcfxEewG",
+      "name": "Dark orange",
+      "value": "#FF8C00"
+    },
+    {
+      "id": "mrHhQtal9dv5UGyBOje_91",
+      "name": "Dark orchid",
+      "value": "#9932CC"
+    },
+    {
+      "id": "MTeG7pGEc6v4ztEX7JetAo",
+      "name": "Dark purple",
+      "value": "#301934"
+    },
+    {
+      "id": "jAZ6G8PNF7cwkmiTFF0h4r",
+      "name": "Dark red",
+      "value": "#8B0000"
+    },
+    {
+      "id": "tVtpyf54DMWoKwqENWyqUv",
+      "name": "Dark salmon",
+      "value": "#E9967A"
+    },
+    {
+      "id": "mo4kJVhA3nZbIe9OiaSnPC",
+      "name": "Dark sea green",
+      "value": "#8FBC8F"
+    },
+    {
+      "id": "W4hilW_NyQnnFYDb4Pk6zu",
+      "name": "Dark sienna",
+      "value": "#3C1414"
+    },
+    {
+      "id": "IHzIsrD5wSyg50bu8K9AWI",
+      "name": "Dark sky blue",
+      "value": "#8CBED6"
+    },
+    {
+      "id": "D5OcDS4j-PfpwBBaWEwDfp",
+      "name": "Dark slate blue",
+      "value": "#483D8B"
+    },
+    {
+      "id": "ikOt1YMvE5vAiOY2aT_Tds",
+      "name": "Dark slate gray",
+      "value": "#2F4F4F"
+    },
+    {
+      "id": "Z7u1JMbfbgY7EtK1WIdssC",
+      "name": "Dark spring green",
+      "value": "#177245"
+    },
+    {
+      "id": "gBAHqMnNTBhYMtGQJFayAz",
+      "name": "Dark turquoise",
+      "value": "#00CED1"
+    },
+    {
+      "id": "urOGKwXgjuRcwEBvmhNRLr",
+      "name": "Dark violet",
+      "value": "#9400D3"
+    },
+    {
+      "id": "Skie5TA5oHaIPdgprwgiA7",
+      "name": "Davy's grey",
+      "value": "#555555"
+    },
+    {
+      "id": "8eIH7ogpzQ61QbRFHDvV1O",
+      "name": "Deep cerise",
+      "value": "#DA3287"
+    },
+    {
+      "id": "_fykCh-tkPSv-jTHsdn5Rq",
+      "name": "Deep champagne",
+      "value": "#FAD6A5"
+    },
+    {
+      "id": "SyiPaqJ8NVTx-rgiw1yipx",
+      "name": "Deep chestnut",
+      "value": "#B94E48"
+    },
+    {
+      "id": "JXxdpARGRPU1waeM1QrU2t",
+      "name": "Deep jungle green",
+      "value": "#004B49"
+    },
+    {
+      "id": "8cSmYVrVVcRzPwe_Xs1vKa",
+      "name": "Deep pink",
+      "value": "#FF1493"
+    },
+    {
+      "id": "6rVvOFmPJk0RroToO0PvUa",
+      "name": "Deep saffron",
+      "value": "#FF9933"
+    },
+    {
+      "id": "GFPWExQ1TplNV-qfbYPoPD",
+      "name": "Deep sky blue",
+      "value": "#00BFFF"
+    },
+    {
+      "id": "NhDa6GrlrhVvtJCMYyWQts",
+      "name": "Deep Space Sparkle",
+      "value": "#4A646C"
+    },
+    {
+      "id": "RKWrVXUNKmWDUz8ABExxRj",
+      "name": "Deep taupe",
+      "value": "#7E5E60"
+    },
+    {
+      "id": "QUcjDXqP4ChR9t80aOvy0w",
+      "name": "Denim",
+      "value": "#1560BD"
+    },
+    {
+      "id": "qJAs350HKaRRWTZ29QxuW3",
+      "name": "Denim blue",
+      "value": "#2243B6"
+    },
+    {
+      "id": "Tl8GlE-SLIV9QyLGxg4JbI",
+      "name": "Desert",
+      "value": "#C19A6B"
+    },
+    {
+      "id": "iT_KpQrQHqJMOyFwovm9PU",
+      "name": "Desert sand",
+      "value": "#EDC9AF"
+    },
+    {
+      "id": "F0yl4R-9yQDWGvOyj5VYZ_",
+      "name": "Dim gray",
+      "value": "#696969"
+    },
+    {
+      "id": "_Njxlzo75DKzcHpZ5VhMNS",
+      "name": "Dodger blue",
+      "value": "#1E90FF"
+    },
+    {
+      "id": "USYgOMgWb7WLNR1vGBPfKW",
+      "name": "Drab dark brown",
+      "value": "#4A412A"
+    },
+    {
+      "id": "DRsux3nlxVAtpzuCDIPtG-",
+      "name": "Duke blue",
+      "value": "#00009C"
+    },
+    {
+      "id": "xJJaR5WkcQkAWjx9v236fa",
+      "name": "Dutch white",
+      "value": "#EFDFBB"
+    },
+    {
+      "id": "Z-4n3ICyTSVpvhBko1cm4a",
+      "name": "Ebony",
+      "value": "#555D50"
+    },
+    {
+      "id": "DWW15l7nSOYV686v6SCrSF",
+      "name": "Ecru",
+      "value": "#C2B280"
+    },
+    {
+      "id": "IVJTY1SNV6lmV-TaMMmN1D",
+      "name": "Eerie black",
+      "value": "#1B1B1B"
+    },
+    {
+      "id": "C5GGd9-Z7OCG-VWJ6qgXCN",
+      "name": "Eggplant",
+      "value": "#614051"
+    },
+    {
+      "id": "tfGKl_QWVRoQOzSr4dKJjB",
+      "name": "Eggshell",
+      "value": "#F0EAD6"
+    },
+    {
+      "id": "Pz1okj_THEB_2yhn8mLJAK",
+      "name": "Electric lime",
+      "value": "#CCFF00"
+    },
+    {
+      "id": "z5_DtAy6Xhf01_C-Zx_Rhp",
+      "name": "Electric purple",
+      "value": "#BF00FF"
+    },
+    {
+      "id": "CiPT7isI_ps6QsKOg832oz",
+      "name": "Electric violet",
+      "value": "#8F00FF"
+    },
+    {
+      "id": "JDEdV37C1o7gB98t1IqAr-",
+      "name": "Emerald",
+      "value": "#50C878"
+    },
+    {
+      "id": "dSsoZwOcdFzy_rouQv5yM-",
+      "name": "Eminence",
+      "value": "#6C3082"
+    },
+    {
+      "id": "hbOwb0ocCw_x1TB8W9jR98",
+      "name": "English lavender",
+      "value": "#B48395"
+    },
+    {
+      "id": "G_eEviZu6BKSW8S0Gs6A6k",
+      "name": "English red",
+      "value": "#AB4B52"
+    },
+    {
+      "id": "zOrEqId6GNS4pz9BNuGxXG",
+      "name": "English vermillion",
+      "value": "#CC474B"
+    },
+    {
+      "id": "UV_OJuD6IxPwT8FJ4iz7ge",
+      "name": "English violet",
+      "value": "#563C5C"
+    },
+    {
+      "id": "JpAxINuOSTtDPGR6NBEwlp",
+      "name": "Erin",
+      "value": "#00FF40"
+    },
+    {
+      "id": "YK6UBdklluaxWbkQAtGT8-",
+      "name": "Eton blue",
+      "value": "#96C8A2"
+    },
+    {
+      "id": "vkcsVitFHntHsKmsnBQ9Bq",
+      "name": "Fallow",
+      "value": "#C19A6B"
+    },
+    {
+      "id": "OjgSnTMEHNfHyldRSl-ZlW",
+      "name": "Falu red",
+      "value": "#801818"
+    },
+    {
+      "id": "6LaYNf1iC4cd6LGnd9aW1E",
+      "name": "Fandango",
+      "value": "#B53389"
+    },
+    {
+      "id": "ve46wjs9oEhPuZYMlHG8LG",
+      "name": "Fandango pink",
+      "value": "#DE5285"
+    },
+    {
+      "id": "_T1uHdvsD4fU7wriQiIYAi",
+      "name": "Fawn",
+      "value": "#E5AA70"
+    },
+    {
+      "id": "7gZfwpMd4InEoe_dHLyJZL",
+      "name": "Fern green",
+      "value": "#4F7942"
+    },
+    {
+      "id": "tnb_dxPS0koCJvWe8HSEkU",
+      "name": "Field drab",
+      "value": "#6C541E"
+    },
+    {
+      "id": "2-TM6iMObYpn4eS_5V8icq",
+      "name": "Fiery rose",
+      "value": "#FF5470"
+    },
+    {
+      "id": "9mD9kxl1MaW_GsitGcYRPG",
+      "name": "Finn",
+      "value": "#683068"
+    },
+    {
+      "id": "NEAZbt4Oeo-nrbY0EfzwRu",
+      "name": "Firebrick",
+      "value": "#B22222"
+    },
+    {
+      "id": "mp98LSk4hyXB20pTlKVFox",
+      "name": "Fire engine red",
+      "value": "#CE2029"
+    },
+    {
+      "id": "ePQxP__bQ2sgDmhG7fac5A",
+      "name": "Flame",
+      "value": "#E25822"
+    },
+    {
+      "id": "IOsGhNvfQ3Z84jRgvAB1ja",
+      "name": "Flax",
+      "value": "#EEDC82"
+    },
+    {
+      "id": "x9uM86EdXAMkm0rczLLd8Y",
+      "name": "Flirt",
+      "value": "#A2006D"
+    },
+    {
+      "id": "U99K2g979GMC9fUuVYYvIR",
+      "name": "Floral white",
+      "value": "#FFFAF0"
+    },
+    {
+      "id": "9KEAjYXb7K6T7Lmv_-T8Dp",
+      "name": "Forest green (web)",
+      "value": "#228B22"
+    },
+    {
+      "id": "uwogbyR0TByvYeaXly6-xl",
+      "name": "French beige",
+      "value": "#A67B5B"
+    },
+    {
+      "id": "FW2DhkjaLTnl7UcIWW4vUY",
+      "name": "French bistre",
+      "value": "#856D4D"
+    },
+    {
+      "id": "PlOWKU71yVRpwP5R909_eT",
+      "name": "French blue",
+      "value": "#0072BB"
+    },
+    {
+      "id": "-PKNuRNyfq3scfOlAnoQAm",
+      "name": "French fuchsia",
+      "value": "#FD3F92"
+    },
+    {
+      "id": "sPqufCbPLt1PK-o0cTBsh-",
+      "name": "French lilac",
+      "value": "#86608E"
+    },
+    {
+      "id": "T9nEjMrtiTE24ieNf6Znnp",
+      "name": "French lime",
+      "value": "#9EFD38"
+    },
+    {
+      "id": "zxWbTgjcMxKNIx2WmFfuBV",
+      "name": "French mauve",
+      "value": "#D473D4"
+    },
+    {
+      "id": "Aeghlh7XmogfaeQXP12d9e",
+      "name": "French pink",
+      "value": "#FD6C9E"
+    },
+    {
+      "id": "YtiKxigIxT4Kzcu0BiuD69",
+      "name": "French raspberry",
+      "value": "#C72C48"
+    },
+    {
+      "id": "k2_-DncNrlZhWER7paUPON",
+      "name": "French sky blue",
+      "value": "#77B5FE"
+    },
+    {
+      "id": "AzZHtH03HPa_d58eaHQNnh",
+      "name": "French violet",
+      "value": "#8806CE"
+    },
+    {
+      "id": "zPJxjF10RtIdJUGd9HMu4S",
+      "name": "Frostbite",
+      "value": "#E936A7"
+    },
+    {
+      "id": "CSxG7vvfaUSGGNr50E2aXr",
+      "name": "Fuchsia",
+      "value": "#FF00FF"
+    },
+    {
+      "id": "QnRkrOupRXRtf84XIMCEju",
+      "name": "Fuchsia (Crayola)",
+      "value": "#C154C1"
+    },
+    {
+      "id": "bbJbhN4WG6jTc0ZNW06nj_",
+      "name": "Fulvous",
+      "value": "#E48400"
+    },
+    {
+      "id": "2PBq8dxg9zofx0lVJ553Vb",
+      "name": "Fuzzy Wuzzy",
+      "value": "#87421F"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Shi",
+      "color": "gb_sQ3-_C2M6OswZF0iyG"
+    },
+    {
+      "path": "1 GAN Masters",
+      "color": "FqP08AZEc985aN-QTGz4Q"
+    },
+    {
+      "path": "anime",
+      "color": "_LuS3j3pzXiYgtTFo5X9M"
+    },
+    {
+      "path": "1 GAN Masters/changes",
+      "color": "FqP08AZEc985aN-QTGz4Q"
+    },
+    {
+      "path": "Automata",
+      "color": "C9uRFNSXPswxvRGx_5YP4"
+    },
+    {
+      "path": "RSA/Deal House/Deal",
+      "color": "_LuS3j3pzXiYgtTFo5X9M"
+    },
+    {
+      "path": ".",
+      "color": "s6whaTGLXetsuPxgVzT43g"
+    },
+    {
+      "path": "0. Final Research Paper.md",
+      "color": "uuIT4zOqL-PctAG5Uc0OKD"
+    },
+    {
+      "path": "1. Final Research Paper.md",
+      "color": "PzISS3KoNdhKgtT6hOvqym"
+    },
+    {
+      "path": "1. Youtube Sources.md",
+      "color": "gBAHqMnNTBhYMtGQJFayAz"
+    },
+    {
+      "path": "2. Github Sources.md",
+      "color": "Eso36rqCx2h0Vd_32fFXU4"
+    },
+    {
+      "path": "3. References.md",
+      "color": "vQRCTvEe1ooQNO9jNjZuue"
+    },
+    {
+      "path": "4. PDF Reading.md",
+      "color": "w6pkNPTLrjmrc6U7F2rDaZ"
+    },
+    {
+      "path": "5. Prof Mwathi Changes.md",
+      "color": "BmeoX1CLToV6geQyQCw3j0"
+    },
+    {
+      "path": "6. Problem Illustration - Library Analogy.md",
+      "color": "FH3pcrtqV4RrK9kRTUnY4J"
+    },
+    {
+      "path": "GAN_Blockchain_Security_Presentation.md",
+      "color": "qKalahIuMX5dWTbUW3kgqF"
+    },
+    {
+      "path": "GAN_Blockchain_Security_Presentation.pptx",
+      "color": "2-TM6iMObYpn4eS_5V8icq"
+    },
+    {
+      "path": "GAN_Blockchain_Security_Speaker_Notes.md",
+      "color": "-DutEnDJIiY0XlPN79s6w9"
+    },
+    {
+      "path": "List_of_Abbreviations.docx",
+      "color": "mrHhQtal9dv5UGyBOje_91"
+    },
+    {
+      "path": "List_of_Abbreviations.md",
+      "color": "6VGW5FI6rLpyPlzfCoydYi"
+    },
+    {
+      "path": "changes",
+      "color": "ukA1qMpOjLyOriBk9BF9-E"
+    },
+    {
+      "path": "images",
+      "color": "7gZfwpMd4InEoe_dHLyJZL"
+    },
+    {
+      "path": "pdf",
+      "color": "sPqufCbPLt1PK-o0cTBsh-"
+    },
+    {
+      "path": "prof",
+      "color": "lGCs0NbXDuBO-qLx63FRZj"
+    },
+    {
+      "path": "Course Outline.md",
+      "color": "G_eEviZu6BKSW8S0Gs6A6k"
+    },
+    {
+      "path": "Topics",
+      "color": "DojG1gEeM-uNyeY0WUGj8K"
+    },
+    {
+      "path": "assignment",
+      "color": "oYWH2nQ34jeifhwIwDR3la"
+    },
+    {
+      "path": "images",
+      "color": "7gZfwpMd4InEoe_dHLyJZL"
+    },
+    {
+      "path": "pdf",
+      "color": "sPqufCbPLt1PK-o0cTBsh-"
+    },
+    {
+      "path": "BiasharaLink",
+      "color": "f8McEaycJCDLSOD6stVWY_"
+    },
+    {
+      "path": "errors.md",
+      "color": "Ij0fnyh5J9Bghglt83Rcex"
+    },
+    {
+      "path": "Calendar",
+      "color": "ucew3fhmSXA6GPVm0JXp21"
+    },
+    {
+      "path": "daily",
+      "color": "PlOWKU71yVRpwP5R909_eT"
+    },
+    {
+      "path": "monthly",
+      "color": "Rg0QPuWKHyTH6M6036cjwa"
+    },
+    {
+      "path": "quarterly",
+      "color": "XW2JdpqRoqyzSi6UlApGbl"
+    },
+    {
+      "path": "weekly",
+      "color": "7-JtgoVu2ZOz6btj5KxUjt"
+    },
+    {
+      "path": "yearly",
+      "color": "kyDkoNQkzCFaiN49WLQ72y"
+    },
+    {
+      "path": "Cursor",
+      "color": "023Gh4dYsDqYnBQDfMsYuU"
+    },
+    {
+      "path": "Rules.md",
+      "color": "YK6UBdklluaxWbkQAtGT8-"
+    },
+    {
+      "path": "cursor.md",
+      "color": "u-R2AlDmyvf-77IjsAgVOz"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "axtNSm1UIjbUYUikR4S2Qo"
+    },
+    {
+      "path": "automata.md",
+      "color": "0pMJX_OBBFDEQO-tCMyWDH"
+    },
+    {
+      "path": "convert_to_deal.md",
+      "color": "Ij0fnyh5J9Bghglt83Rcex"
+    },
+    {
+      "path": "design.md",
+      "color": "AoRYhvD3x_tWXOwICWOZUE"
+    },
+    {
+      "path": "salam.md",
+      "color": "f5zGFyQL1SHSM6hBbpIZrm"
+    },
+    {
+      "path": "Exercism",
+      "color": "SJo6pMz1me8ZHcIDpA4g3i"
+    },
+    {
+      "path": "Configuration.md",
+      "color": "phTK9x5T-dclNhrJTQClB8"
+    },
+    {
+      "path": "Go",
+      "color": "BmeoX1CLToV6geQyQCw3j0"
+    },
+    {
+      "path": "Comments.md",
+      "color": "S3pMHE5FCOfQauq-CxpchX"
+    },
+    {
+      "path": "Conditions.md",
+      "color": "vkcsVitFHntHsKmsnBQ9Bq"
+    },
+    {
+      "path": "Floating-point numbers.md",
+      "color": "mMKxgqZDSZmX9iBXL2EuG2"
+    },
+    {
+      "path": "Learning Go.md",
+      "color": "I7d4WFk-GHjN6l2BCV8Sm7"
+    },
+    {
+      "path": "Pointers.md",
+      "color": "_BZ_ei0vXW9iPk1OOAvlnp"
+    },
+    {
+      "path": "Range Iteration.md",
+      "color": "8VHj9FH4Uq5_covYErS2Pj"
+    },
+    {
+      "path": "Regex.md",
+      "color": "x9uM86EdXAMkm0rczLLd8Y"
+    },
+    {
+      "path": "String Formating.md",
+      "color": "s6whaTGLXetsuPxgVzT43g"
+    },
+    {
+      "path": "boolean.md",
+      "color": "iT_KpQrQHqJMOyFwovm9PU"
+    },
+    {
+      "path": "deployment.md",
+      "color": "GOudo29hpS9WxiHUJ1hBLd"
+    },
+    {
+      "path": "functions.md",
+      "color": "XW2JdpqRoqyzSi6UlApGbl"
+    },
+    {
+      "path": "gin-service.md",
+      "color": "ucew3fhmSXA6GPVm0JXp21"
+    },
+    {
+      "path": "loop.md",
+      "color": "Uc-950oi1foaqnoYiBw58a"
+    },
+    {
+      "path": "maps.md",
+      "color": "Eso36rqCx2h0Vd_32fFXU4"
+    },
+    {
+      "path": "methods.md",
+      "color": "u4jzkm0FA8G0SNKiBSzzeT"
+    },
+    {
+      "path": "nginx-config.md",
+      "color": "PlOWKU71yVRpwP5R909_eT"
+    },
+    {
+      "path": "randomness.md",
+      "color": "fCcbXyPpuYUW4rR1WT06hs"
+    },
+    {
+      "path": "runes.md",
+      "color": "KddcQ6PN0QKQ7YvBZ5YEaP"
+    },
+    {
+      "path": "slice.md",
+      "color": "RKWrVXUNKmWDUz8ABExxRj"
+    },
+    {
+      "path": "strings.md",
+      "color": "KddcQ6PN0QKQ7YvBZ5YEaP"
+    },
+    {
+      "path": "structs.md",
+      "color": "AOboAYPBD_yDqx-1YcB0A6"
+    },
+    {
+      "path": "switch.md",
+      "color": "c5PtRo42f-U9t4ZgYmVvgZ"
+    },
+    {
+      "path": "time.md",
+      "color": "C_k-jBBbOu82YotlAu4orq"
+    },
+    {
+      "path": "weather.md",
+      "color": "nIhXBZgol-umLuS5i1NIMb"
+    },
+    {
+      "path": "Machine Learning",
+      "color": "wdiGOjWU2_WNMtiV2OawOC"
+    },
+    {
+      "path": "Nuxt",
+      "color": "xcznjUnUHkTtIn9tbDKl6f"
+    },
+    {
+      "path": "Format.md",
+      "color": "XPNyIZNhPN9aSKGf-uo7Bq"
+    },
+    {
+      "path": "Obsidian",
+      "color": "f5zGFyQL1SHSM6hBbpIZrm"
+    },
+    {
+      "path": "Obsidian Technical Writing Cheat Sheet.md",
+      "color": "DojG1gEeM-uNyeY0WUGj8K"
+    },
+    {
+      "path": "Python",
+      "color": "yNjvwhNdNWSi7u6aAe4HAy"
+    },
+    {
+      "path": "env.md",
+      "color": "u-R2AlDmyvf-77IjsAgVOz"
+    },
+    {
+      "path": "RSA",
+      "color": "XiCXMj-nztEz5ha2pRQKo0"
+    },
+    {
+      "path": "Asili",
+      "color": "ucew3fhmSXA6GPVm0JXp21"
+    },
+    {
+      "path": "Deal House",
+      "color": "h42bKwW5Tz0oQrQzSoE2TV"
+    },
+    {
+      "path": "KYC",
+      "color": "IM55b8UuvhlwH8c2YUD3MS"
+    },
+    {
+      "path": "Liz",
+      "color": "Pz1okj_THEB_2yhn8mLJAK"
+    },
+    {
+      "path": "Server",
+      "color": "_Njxlzo75DKzcHpZ5VhMNS"
+    },
+    {
+      "path": "realsourcesafrica.com",
+      "color": "kyDkoNQkzCFaiN49WLQ72y"
+    },
+    {
+      "path": "Salam Logistics",
+      "color": "6rVvOFmPJk0RroToO0PvUa"
+    },
+    {
+      "path": "Scope of Work.md",
+      "color": "45gEvlWBKvtMjizhFi-4wP"
+    },
+    {
+      "path": "flow.canvas",
+      "color": "Q_OoQvIk4ZqmLU37vI5ve3"
+    },
+    {
+      "path": "pull.md",
+      "color": "PlOWKU71yVRpwP5R909_eT"
+    },
+    {
+      "path": "Profile Picture.md",
+      "color": "yOqlMWKwvT20OANldkw_J-"
+    },
+    {
+      "path": "beautiful_mt_fugi.png",
+      "color": "qKalahIuMX5dWTbUW3kgqF"
+    },
+    {
+      "path": "concern.png",
+      "color": "Ij0fnyh5J9Bghglt83Rcex"
+    },
+    {
+      "path": "Washamba",
+      "color": "oYWH2nQ34jeifhwIwDR3la"
+    },
+    {
+      "path": "Appointment.md",
+      "color": "qsOcCD8buGzpaRYoiyIuok"
+    },
+    {
+      "path": "Lead Full-Stack Engineer & Platform Architect – Washamba Application.md",
+      "color": "8ESu_oA9HO1HHHEZWp6_Pc"
+    },
+    {
+      "path": "Release Date.md",
+      "color": "FW2DhkjaLTnl7UcIWW4vUY"
+    },
+    {
+      "path": "bases",
+      "color": "ltRHlfIHIw3p_WEpfVg4kS"
+    },
+    {
+      "path": "Database.base",
+      "color": "qsOcCD8buGzpaRYoiyIuok"
+    },
+    {
+      "path": "dataview",
+      "color": "mrHhQtal9dv5UGyBOje_91"
+    },
+    {
+      "path": "0-dataview.md",
+      "color": "8ESu_oA9HO1HHHEZWp6_Pc"
+    },
+    {
+      "path": "scripts",
+      "color": "Q_OoQvIk4ZqmLU37vI5ve3"
+    },
+    {
+      "path": "insert_see_also_links.py",
+      "color": "oYWH2nQ34jeifhwIwDR3la"
+    }
+  ]
+}
